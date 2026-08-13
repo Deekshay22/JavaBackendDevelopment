@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>JavaBackendDevelopment</name>
+=======
+	<name>firstJavaProgram</name>
+>>>>>>> ed014d1d7d30604f3ae42eaea8cbab4cf8daf8d9
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
 	</buildSpec>
 	<natures>
+=======
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> ed014d1d7d30604f3ae42eaea8cbab4cf8daf8d9
 	</natures>
 </projectDescription>
