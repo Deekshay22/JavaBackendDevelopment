@@ -1,0 +1,36 @@
+variables in  java 
+ access for read, write update we only do when we have address and name of something 
+ Name represent the name of something variable name(storage location, memory location)
+ 
+ 
+ int age= 5;
+ 
+ int -define type of data it only store integers
+ age - define variable name memory allocation
+ = define assignment operator
+ 5 define value of the variable to store inside 
+ 
+ java variable - A variable is a named memory location used to store data.
+
+Every variable in Java must have:
+			Once declared, a variable cannot change its data type.
+			A data type
+			A unique name
+			A value (optional at declaration)
+			
+Naming Rules for Variables - Follow these rules:
+		
+		Can contain letters, digits, _, $
+		Cannot start with a digit
+		Cannot use Java keywords
+		Case-sensitive
+		 
+java literals - A literal is the actual fixed value assigned to a variable.
+ 
+ Example: java
+		int activeUsers = 5000;
+		Here:
+		
+		activeUsers → variable
+		5000 → literal
+		Java supports multiple types of literals.
