@@ -1,0 +1,22 @@
+flow of control
+while the block of code convert into machine level language how jvm will 
+check step by step or line by line
+
+switch statement can only test  = Equality
+
+but if else if ladder = boolean expression bhi evaluate both equality and boolean expression bhi
+
+// JUMP TABLE IMP Interview question
+2. Switch is more efficient then if else as is use jump table concept 
+java compiler build jump table in Two diff ways 
+
+1. table Switch - java comipler build only when the I value is dense (near by) 10,11,12
+
+2. lookup switch  - java compiler build only when the i value is spares (far) 10, 10K, 1 lakh
+
+these are done bcoz to optimize switch case performance
+
+// switch statements can be nested switch 
+switch(){
+switch(){
+}}
