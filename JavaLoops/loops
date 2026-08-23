@@ -1,0 +1,16 @@
+n=3 // n define number of iteration
+while meh condition pehle hi fail hui toh loop execute nhi hoga
+but do while meh condition last meh check hoti tab tak ek baar toh loop execute hoga
+
+/* menu item selection
+play game 
+Return saved games
+exit */
+
+For loop use int because short or btye is internally promote to Interger as TYpe promotion happened
+
+ i went  1 to 5 suppose that 5 is (n) a random no
+ j went 1 to 5 suppose that 5 is (m) a random number
+ switch= checks equality 
+ if else if ladder = checks boolean
+ 

@@ -1,0 +1,41 @@
+// array is contiguous memory allocation
+
+primitive datatypes particular memory store hote hai Stack Memory
+
+int x=4; 
+for example here x directly holds value 4 
+all Primitve data types goes to stack memory.
+
+int[] arr = new int[5]; after writing this goes inside Heap memeory 
+waha 5 size ka array create hua hoga OR arr goes inside Stack memory waha jaa kr variable create hua hai
+
+// arr variable we call it- Reference variable
+
+// arr it does not directly holds the array 
+-> it is a reference to an array
+
+
+
+non-pritiv datatype that store inside Heap Memory
+
+how do JVM know i have visit x and read 4 bytes
+
+to find any element what we need to know is 
+
+arr[i]= baseAddress + (btye of datatype * index);jvm directly use this formula
+ that's why we get random access in any array jvm directly use this formula
+
+baseAddress is store the reference of the first address suppose arr={10,20,30};
+and BaseAdd of 10 is 1000 toh arr variable already have 1000 usme jvm formula use krke value deta hai.
+
+
+
+how do we get random access in 2-D array
+int[][] arr = new int[3][4];
+int[3] = arr{0,1,2}
+arr[0] = reference var 100 it refers aother array which of 4 size 
+arr[1] = reference var 101 it refers aother array which of 4 size 
+arr[2] = reference var 102 it refers aother array which of 4 size 
+
+
+

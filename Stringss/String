@@ -1,0 +1,9 @@
+//Strings are non primitive datatype such as arrays object and others
+
+String in java will be in double quotes only 
+
+strings value got store in heap memory and addres stored by reference variable
+
+
+Random Access Memory
+caching store value inside register memory it store extra btye of information 

@@ -1,0 +1,15 @@
+int age =8;
+
+int is a typr of data = variable is 
+
+Every  character is assigned with numeric value
+we call it ascii value 
+
+implicit and explicit conversion
+
+byte takes 1 = 8 bits binary 
+short takes 2 = 16bit 
+int take 4 = 4*8 = 32 bit
+
+long takes 8 = 8*8 = 64 bit
+

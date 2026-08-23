@@ -1,0 +1,4 @@
+operator are used to perform operation between Operand.
+there are different type of operator which perform different operation.\
+
+// Garbage collector are used in java just to check that no memory leakage problem occur it automatically check through heap memory 
