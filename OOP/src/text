@@ -1,0 +1,36 @@
+student s1 ; this s1 take space in stack memory
+s1 = new Student(); // this new student allocate space in
+ Heap memeory and its address store in stack memory
+
+ 
+ Compile time = static memory allocation int x=9;
+ RunTime = dynamic memory allocation using new keyword it happens in run time
+ object will work on runtime
+ 
+ 
+how to give values to object s1 store
+then . operator help in taking value
+	s1.name="arya";
+	s1.age =25;
+	s1.roll=133;
+	s1.college="ssipmt";
+	
+	
+Naming convention is (good practice)
+	Variable (Primitive / Reference Variable)
+	camelCase = firstName, lastName
+	
+	Classes - Capital Letter
+	
+	Function - camelCase
+	
+Object  Animal - charactertis  type and Behaviour can do somethings
+ void makeSound(){ }
+ 
+ s1.type;
+ s1.makeSound();
+ 
+ //Java almost complete object oriented programming 
+
+
+	
