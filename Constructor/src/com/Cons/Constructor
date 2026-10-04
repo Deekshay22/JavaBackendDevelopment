@@ -1,0 +1,25 @@
+Constructor
+1. has same Name as Class
+2.No return type 
+not even void.
+
+Student s1= new Student();
+
+3. Automatically called during object creation.
+4. Used to initalize an object 
+5. it can also be overloaded
+// new keyword dynamically allocate object in heap memory
+
+Student(); // this call constructor
+s1 is a reference variable - store in Stack 
+
+//Constructor is mandatory 
+ if we don't define it it will Call Default constructor-empty 
+ by default --> default get print 
+ 
+ //Chaining in constructor 
+  constructror Overload 
+  
+  chaining
+  
+ Runtime Exception can occur if we dont have enough space in my heap memeory
